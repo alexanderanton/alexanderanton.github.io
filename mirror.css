@@ -1,0 +1,37 @@
+body {
+	background-color: #2e2e2e
+}
+
+h1	{
+	color: white ;
+	font-family: helvetica
+}
+
+a {
+  color: #555555;
+  font-family: helvetica;
+  text-decoration: none;
+}
+
+p {
+	color: white;
+	font-family: hevletica
+}
+
+h3 {
+	color: white;
+	font-family: hevletica
+}
+
+h2 {
+	color: white;
+	font-family: hevletica
+}
+
+.boxed {
+  border: 1px solid green ;
+  height: 450px ;
+  width: 500px ;
+  color: white ;
+  font-family: helvetica
+}
