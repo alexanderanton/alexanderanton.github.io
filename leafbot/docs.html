@@ -1,0 +1,107 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Leaf Documenattion</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
+    <link rel="stylesheet" href="scribbler-global.css">
+    <link rel="stylesheet" href="scribbler-doc.css">
+    <link rel="author" href="humans.txt">
+    <link rel="shortcut icon" type="image/jpg" href="favicon.ico"/>
+
+  </head>
+  <body>
+    <div class="doc__bg"></div>
+    <nav class="header">
+      <h1 class="logo">Leaf <span class="logo__thin">Docs</span></h1>
+      <ul class="menu">
+        <div class="menu__item toggle"><span></span></div>
+        <li class="menu__item"><a href="https://discord.com/api/oauth2/authorize?client_id=836970510528020531&permissions=8&scope=bot" class="link link--dark"><i class="fa fa-discord"></i> Invite</a></li>
+        <li class="menu__item"><a href="index.html" class="link link--dark"><i class="fa fa-home"></i> Home</a></li>
+      </ul>
+    </nav>
+    <div class="wrapper">
+      <aside class="doc__nav">
+        <ul>
+          <li class="js-btn selected">Get Started</li>
+          <li class="js-btn">Configuration</li>
+          <li class="js-btn">Commands</li>
+          
+        </ul>
+      </aside>
+      <article class="doc__content">
+        <section class="js-section">
+          <h3 class="section__title">Get Started</h3>
+          <p>Learn how to get Leaf on your server!</p>
+          <h3 class="section__title">Installation</h3>
+          <div class="code__block code__block--notabs">
+            <pre class="code code--block">
+              <code>
+                1. Invite the bot, with the invite button, or with this <a href="https://discord.com/api/oauth2/authorize?client_id=836970510528020531&permissions=8&scope=bot">link</a>
+                2. Make sure that the bot has administrator permissions in your server, either it wont, sadly, work
+                3. Do .bothelp for a list of commands
+              </code>
+            </pre>
+          </div>
+        </section>
+        <section class="js-section">
+          <h3 class="section__title">Commands</h3>
+          <p>Here are the commands and how you need to use them.</p>
+          <table id="customers">
+            <tr>
+              <th>Command</th>
+              <th>Meaing</th>
+              <th>Ussage</th>
+            </tr>
+            <tr>
+              <td>.bothelp</td>
+              <td>Show a list of avalabile commands in discord</td>
+              <td>.bothelp</td>
+            </tr>
+            <tr>
+              <td>.ban</td>
+              <td>Bans an user</td>
+              <td>.ban @User#1234</td>
+            </tr>
+            <tr>
+              <td>.kick</td>
+              <td>Kicks an user</td>
+              <td>.kick @User#1234</td>
+            </tr>
+            <tr>
+            <td>.unban</td>
+            <td>Unbans an user</td>
+            <td>.unban User#1234</td>
+          </tr>
+          <td>.clear</td>
+          <td>Clears 1 or more messages. The maximum amount is 5</td>
+          <td>.clear **number**</td>
+        </tr> 
+        <td>.ping</td>
+        <td>Verify your ping to the bot</td>
+        <td>.ping</td>          
+          </table>
+          <p>Tips: 1.You need to know the users tag you want to unban, because it wont work to unban him with an @User#1234 because he isnt in the server anymore <br> 2. The default number for clear is 5. So if you will do .clear , it will clear 5 messages, including you .clear message!</p>
+          <hr />
+        </section>
+        <section class="js-section">
+          <h3 class="section__title">Configuraton</h3>
+          <p>Learn how to make Leaf recognize the permissions</p>
+          <p>I can start with an "It is quite simple" . Basically for every administrator role that you have, you need to do some tweaks:</p>
+          <p>For the command <code>.ban</code> to work, you need to give to the wanted administrator roles the Ban Members permission.</p>
+          <p>For the command <code>.kick</code> to work, you need to give to the wanted administrator roles the Kick Members permission.</p>
+          <p>For the command <code>.unban</code> to work, you need to give to the wanted administrator roles the Administrator  permission. Be sure you trust them that time! </p>
+          <p>For the command <code>.clear</code> to work, you need to give to the wanted administrator roles the manage_messages permission.</p>
+
+
+
+          <hr />
+
+
+
+    <script src="scribbler.js"></script>
+  </body>
+</html>
