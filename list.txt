@@ -1,6 +1,7 @@
 sebi duminica (bifat)
 tudor duminica (bifat)
 eu
+teuta duminica (bifat)
 sabina duminica (bifat)
 vaslie duminica (bifat)
 gogoasa duminica (bifat)
@@ -12,4 +13,4 @@ tantar nu se poate
 ana pending...
 vlad platon pending...
 silvia pending...
-teuta pending...
+
