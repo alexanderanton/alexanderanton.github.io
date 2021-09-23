@@ -1,0 +1,2 @@
+Funcțiile sintactice sunt: Predicatul-Ce face subiectul?, Subiectul-Cine/Ce face actiunea?, Atributul-Care?/Ce fel de..?, Complementul-Cum?, Unde?, Cand?, Cui?,Ce?, Pe cine?etc.
+Valorile morflogice sunt părtile de vorbire:substantiv, adjectiv, verb, adverb, numeral, pronume personal/de politete/de întărire/reflexiv/relativ/interogativ/nehotărât/negativ, prepozitie, conjunctie, articol, interjectie.
