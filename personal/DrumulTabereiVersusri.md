@@ -1,6 +1,28 @@
 # Drumul taberei
 
+Peisajul?
 
+Blocuri gri
+
+Care depresie ar putea starni
+
+Daca peisajul nu ar fi plin de sunete zglobii
+
+Daca explorarea cartierului fericire nu tiar darui 
+
+Daca 4 copii in fiecare seara in scarile blocurilor nu ar popoti
+
+Daca pasarile nu ar canta
+
+Daca viata in pantecele betonului nu ar rasuna
+
+Daca vecinii pace tiar da 
+
+Daca ultimul etaj o vedere magica asupra orasului  nu ar avea
+
+Daca infiltrarea in diferite blocuri pentru cu peisaje a ma hrani nu sar putea
+
+Daca lucruri noi in fiecare zi nu vei vedea
 
 Ou, Drumul Taberei
 
@@ -67,5 +89,19 @@ Pentru a reveni în Drumul Taberei
 Care nu se mai opreau din ghidușii
 
 Acolo, împreună, vom muri.	
+
+Peisajul?
+
+Blocuri gri
+
+Nimic diferit
+
+Cum lam lasat
+
+Drumul taberei inca nu a plecat
+
+Dar toata lumea sa mutat
+
+Si de magia acestuia a uitat 
 
 Anton Alexandru, duminica, 30 ianuarie, 2022 
